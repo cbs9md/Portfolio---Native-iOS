@@ -2,7 +2,7 @@
 
 # Cardinal
 
-Cardinal is a mental math game I am developing with pure SwiftUI.  I hope to deploy it to this App Store in October 2025.
+Cardinal is a mental math game I am developing with pure SwiftUI.  I hope to deploy it to the App Store in October 2025.
 
 
 <p align="leading">
@@ -20,11 +20,14 @@ Cardinal is a mental math game I am developing with pure SwiftUI.  I hope to dep
 
 # Valor
 
-Valor is a native iOS app I designed and built while working for Valor Biomechanics located in Austin, TX. The app is used by multiple professional sports teams to record motion capture data for use in preventing injuries and improving form during athletic movements. 
+Valor is a native iOS app I designed and built while working for Valor Biomechanics located in Austin, TX. The app is used to record motion capture data for use in preventing injuries and improving form during athletic movements. 
+
 
 <p align="leading">
 <img src="https://github.com/cbs9md/Portfolio---Native-iOS/blob/main/images/record.png", width="180"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/cbs9md/Portfolio---Native-iOS/blob/main/images/playback.png", width="180"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/cbs9md/Portfolio---Native-iOS/blob/main/images/athlete progression.png", width="180"/>
 </p>
  
